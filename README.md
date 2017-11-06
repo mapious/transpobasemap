@@ -14,5 +14,5 @@ This repository contains the base map created for the final project.
 ## Base Map
 
 ![basemap](/img/basemap.PNG)
-The map page is hosted in [https://shangjiadong.github.io/netacess/index.html](https://shangjiadong.github.io/netacess/index.html)
+The map page is hosted in [https://shangjiadong.github.io/netaccess/index.html](https://shangjiadong.github.io/netacess/index.html)
 
