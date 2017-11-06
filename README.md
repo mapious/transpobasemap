@@ -16,3 +16,13 @@ This repository contains the base map created for the final project.
 ![basemap](/img/basemap.PNG)
 The map page is hosted in [https://shangjiadong.github.io/netaccess/index.html](https://shangjiadong.github.io/netacess/index.html)
 
+## Design Process
+
+This map is the first step for the final project. My goal of the project is to display the network accessibility, and I will 
+be using travel time to represent the accessibility from a point to different regions of the network. The travel time will be 
+a color platte with very bright color, e.g. with red representing the region that is hard to access and green denotes the region that 
+can be easily accessed, and also there will be other colors such as yellow as a transition. Therefore, I cannot use very bridge color 
+on the base map, which otherwise will make the map too complicated. 
+
+The color I used on the map is from [https://coolors.co/](https://coolors.co/), I was also inspired by the [http://palettr.com/]( http://palettr.com/) 
+when I searched the key words Oregon. 
